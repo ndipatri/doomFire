@@ -1,5 +1,7 @@
 This is a Compose Multiplatform project that creates a Doom Fire Effect.
 
+![DoomFire](doomFire.png)  
+
 See https://fabiensanglard.net/doom_fire_psx/
 
 HUUUGE thanks to https://linkedin.com/in/adam-bennett-4784b327 for his original Doom Fire Compose Repo:  https://github.com/ditn/Doom-Compose
